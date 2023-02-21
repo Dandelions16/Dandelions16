@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>Allow me to introduce myself, my name is Rafhi Arizkia Nurizal, <br>commonly known as Rafhi. I am currently studying at Indraprasta PGRI University, <br>majoring in computer engineering. I am a junior Java developer. I want to learn and grow to become a great programmer.
+🌱 I’m currently learning
 
 
 ## 🌐 Socials:
